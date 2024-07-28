@@ -1,4 +1,4 @@
-﻿namespace BulyWeb.Models
+﻿namespace BulkyWeb.Models
 {
     public class Category
     {

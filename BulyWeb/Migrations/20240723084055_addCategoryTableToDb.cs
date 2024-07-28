@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace BulyWeb.Migrations
+namespace BulkyWeb.Migrations
 {
     /// <inheritdoc />
     public partial class addCategoryTableToDb : Migration
