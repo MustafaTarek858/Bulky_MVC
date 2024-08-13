@@ -24,7 +24,7 @@ namespace BulkyWeb.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("BulyWeb.Models.Category", b =>
+            modelBuilder.Entity("BulkyWeb.Models.Category", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
